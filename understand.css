@@ -1,0 +1,5 @@
+body{
+	background-image:url('anything.gif');
+    background-size:cover;
+    background-attachment: fixed;
+}
